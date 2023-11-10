@@ -1,0 +1,19 @@
+
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+.container {
+    margin-top: 20px;
+}
+
+.btn-primary {
+    background-color: #3490dc;
+    color: #fff;
+}
+
+.btn-success {
+    background-color: #38c172;
+    color: #fff;
+}
+
